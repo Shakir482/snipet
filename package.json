@@ -1,0 +1,22 @@
+{
+  "name": "bootstarp-snippets",
+  "displayName": "snipet bootstarp",
+  "description": "a snipet for bootstarp",
+  "version": "0.0.1",
+  "icon": "icon.jpg",
+  "publisher": "fodientdev",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "html",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}
