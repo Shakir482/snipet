@@ -1,10 +1,16 @@
 {
-  "name": "bootstarp-snippets",
+  "name": "snipet-bootstarp",
   "displayName": "snipet bootstarp",
   "description": "a snipet for bootstarp",
-  "version": "0.0.1",
-  "icon": "icon.jpg",
+  "version": "0.0.4",
   "publisher": "fodientdev",
+  "license": "MIT",
+
+
+  "repository": {
+
+  },
+
   "engines": {
     "vscode": "^1.79.0"
   },
